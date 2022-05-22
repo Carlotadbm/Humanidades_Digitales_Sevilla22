@@ -1,0 +1,1248 @@
+EjemploID	Tipo_maso	idplaces	country_code	place_type	name	full_name	country	id	longitude	latitude
+128	maso	bfc0e5ed37b66a6c	MX	city	Los Cabos	Los Cabos, Baja California Sur	México	2868	-109.9167371	22.8905327
+151	maso	01c0a65e1a84b613	AR	city	San Vicente	San Vicente, Argentina	Argentina	946	-58.423763	-35.0241134
+287	maso	013522304ee10b39	AR	city	Comodoro Rivadavia	Comodoro Rivadavia, Argentina	Argentina	655	-67.4822429	-45.8656149
+312	maso	4d3b316fe2e52b29	AR	country	Argentina	Argentina	Argentina	1826	-63.61667199999999	-38.416097
+719	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+890	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+955	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+960	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1035	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+1082	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+1103	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1143	maso	017246337e451802	AR	city	Luján de Cuyo	Luján de Cuyo, Argentina	Argentina	785	-68.8726145	-32.9980559
+1163	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+1215	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+1264	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+1265	maso	6591282d67e31598	AR	admin	Corrientes	Corrientes, Argentina	Argentina	2066	-58.8306349	-27.4692131
+1267	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1274	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1279	maso	013044056c4adf51	AR	city	Monte Grande	Monte Grande, Argentina	Argentina	642	-58.4620124	-34.8271786
+1293	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1295	maso	0083994c61335f54	AR	city	El Calafate	El Calafate, Argentina	Argentina	278	-72.2647982	-50.337969
+1316	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+1317	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+1318	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1323	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+1383	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1405	maso	789cbde0feb1d0e2	AR	admin	Chubut	Chubut, Argentina	Argentina	2247	-65.11148179999999	-43.2934246
+1410	maso maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1416	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1426	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1448	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1491	maso maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1495	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1531	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1597	maso maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1605	maso maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1606	maso	5482108831148f3c	AR	admin	Salta	Salta, Argentina	Argentina	1901	-65.4231976	-24.7821269
+1609	maso maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1610	maso maso	000f50400f2ec9b3	AR	city	Uruguay	Uruguay, Argentina	Argentina	36	-58.2344527	-32.485827
+1616	maso maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+1640	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+1652	maso	6591282d67e31598	AR	admin	Corrientes	Corrientes, Argentina	Argentina	2066	-58.8306349	-27.4692131
+1669	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+2279	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+2301	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+2303	maso maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+2314	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2318	maso	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+2319	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2322	maso	5482108831148f3c	AR	admin	Salta	Salta, Argentina	Argentina	1901	-65.4231976	-24.7821269
+2323	maso	01f848e9689de257	UY	admin	Rio Negro	Rio Negro, Uruguay	Uruguay	1067	-57.78261430000001	-33.0565975
+2365	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2428	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+2497	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2526	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+2546	maso que	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2547	maso que	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2643	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+2797	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+2803	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+2876	maso	01ee54ce4d13313d	AR	city	Constitución	Constitución, Argentina	Argentina	1042	-61.0471355	-33.6022037
+2931	maso	01e184351f8c7470	AR	city	Río Grande	Río Grande, Argentina	Argentina	1010	-67.7002243	-53.7860374
+2992	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3002	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3005	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3022	maso maso	000f50400f2ec9b3	AR	city	Uruguay	Uruguay, Argentina	Argentina	36	-58.2344527	-32.485827
+6	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+7	maso	0142981624862aa5	PE	city	San Borja	San Borja, Peru	Peru	678	-76.9947088	-12.0954443
+8	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+9	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+10	maso	017f47ab29a7772a	AR	city	Formosa	Formosa, Argentina	Argentina	816	-58.1755669	-26.1857768
+11	maso	006446967d46b032	PE	city	Bellavista	Bellavista, Peru	Peru	212	-77.10740129999999	-12.0570992
+13	maso	119603033586271	AR	NA	NA	NA	NA	NA	NA	NA
+15	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+17	maso	00585da77f488367	AR	city	Rafaela	Rafaela, Argentina	Argentina	192	-61.49164219999999	-31.2525979
+24	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+25	maso	e86e154b91acd5a3	MX	city	Cuajimalpa de Morelos	Cuajimalpa de Morelos, Distrito Federal	México	3223	-99.28805969999999	19.3631419
+39	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+40	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+58	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+59	maso	017d4fef075a2cf1	AR	city	Santiago del Estero	Santiago del Estero, Argentina	Argentina	813	-64.264167	-27.7833574
+64	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+76	maso	0161be1b3f98d6c3	CO	city	Bogotá, D.C.	Bogotá, D.C., Colombia	Colombia	749	-74.072092	4.710988599999999
+88	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+91	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+97	maso	0138a2ed609c5a53	AR	city	González Catán	González Catán, Argentina	Argentina	658	-58.6315295	-34.7624548
+98	maso	004940260158a964	AR	city	Lima	Lima, Argentina	Argentina	159	-59.1961093	-34.0447565
+99	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+100	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+102	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+104	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+105	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+127	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+130	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+133	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+135	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+136	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+137	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+143	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+144	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+145	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+147	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+150	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+153	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+184	maso	00b3fc8c4487f71e	AR	city	San Fernando	San Fernando, Argentina	Argentina	374	-58.55796429999999	-34.4430618
+225	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+243	maso	017d4fef075a2cf1	AR	city	Santiago del Estero	Santiago del Estero, Argentina	Argentina	813	-64.264167	-27.7833574
+244	maso	004b0baa7979aa88	AR	city	Santa María	Santa María, Argentina	Argentina	164	-66.0459116	-26.7035442
+257	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+284	maso	1ed82be977be0cfa	AR	admin	Buenos Aires City Region	Buenos Aires City Region, Argentina	Argentina	1348	-58.3815591	-34.6036844
+296	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+297	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+309	maso	01f2931e2c7f48a8	PY	city	Asuncion	Asuncion, Paraguay	Paraguay	1055	-57.57592599999999	-25.2637399
+321	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+354	maso	9d8ae4b0fac2036a	PA	country	Panamá	Panamá	Panama	2577	-80.782127	8.537981
+368	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+374	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+405	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+407	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+410	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+419	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+420	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+421	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+437	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+438	maso	0190477a36e5f54d	VE	city	Caricuao	Caricuao, Venezuela	Venezuela	849	-66.98093	10.4344176
+572	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+573	maso	01099ab0247833ad	PE	city	Arequipa	Arequipa, Peru	Peru	552	-71.53745099999999	-16.4090474
+588	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+625	maso	00b3fc8c4487f71e	AR	city	San Fernando	San Fernando, Argentina	Argentina	374	-58.55796429999999	-34.4430618
+737	maso	0145137e2190e5d7	AR	city	Rosario del Talá	Rosario del Talá, Argentina	Argentina	687	-59.1443273	-32.3032364
+744	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+750	maso	011abdad7dddec83	AR	city	San Carlos de Bariloche	San Carlos de Bariloche, Argentina	Argentina	596	-71.3102778	-41.1334722
+795	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+870	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+878	maso	00054d3a0a8df14e	AR	city	Mendoza	Mendoza, Argentina	Argentina	12	-68.8458386	-32.8894587
+880	maso	0005a92a6b72edeb	AR	city	Pilar	Pilar, Argentina	Argentina	14	-58.9091671	-34.4778621
+886	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+887	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+888	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+889	maso	6591282d67e31598	AR	admin	Corrientes	Corrientes, Argentina	Argentina	2066	-58.8306349	-27.4692131
+902	maso	33c4b9983fe31b5d	AR	admin	Misiones	Misiones, Argentina	Argentina	1575	-55.9467076	-27.4269255
+903	maso	00a50aa95099b127	AR	city	La Rioja	La Rioja, Argentina	Argentina	345	-66.8564579	-29.4134538
+909	maso	0155aba4519b8d8d	UY	admin	San José	San José, Uruguay	Uruguay	722	-56.7075141	-34.3486042
+910	maso	9d8ae4b0fac2036a	PA	country	Panamá	Panamá	Panama	2577	-80.782127	8.537981
+911	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+935	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+938	maso	01d13f2529da75c4	AR	city	Paraná	Paraná, Argentina	Argentina	974	-60.51154709999999	-31.7413197
+952	maso	9d8ae4b0fac2036a	PA	country	Panamá	Panamá	Panama	2577	-80.782127	8.537981
+961	maso maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+966	maso	01f848e9689de257	UY	admin	Rio Negro	Rio Negro, Uruguay	Uruguay	1067	-57.78261430000001	-33.0565975
+969	maso	014f72200f706d3f	AR	city	Caseros	Caseros, Argentina	Argentina	708	-58.5634631	-34.6094827
+983	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+985	maso	6cf2fd60a82329fc	PY	country	Paraguay	Paraguay	Paraguay	2123	-58.443832	-23.442503
+986	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+987	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+989	maso	509bd883ce91f10a	MX	neighborhood	Área Federal Central de Abastos	Área Federal Central de Abastos, Iztapalapa	México	6013	-99.09351819999999	19.3734768
+999	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+1000	maso	01ef53325401a80c	AR	city	Posadas	Posadas, Argentina	Argentina	1044	-55.90087459999999	-27.3621374
+1001	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1008	maso	014a38a754ca1dbc	AR	city	Morón	Morón, Argentina	Argentina	695	-58.6167212	-34.6558611
+1012	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+1013	maso	01a6a58f3193a4fa	AR	city	Lobería	Lobería, Argentina	Argentina	890	-58.7816955	-38.1634422
+1028	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1032	maso	efcdd0cc2919c82a	MX	city	General Escobedo	General Escobedo, Nuevo León	México	3289	-100.3122083	25.8002233
+1038	maso	00eae3fa591bc69e	AR	city	Tres Arroyos	Tres Arroyos, Argentina	Argentina	483	-60.27522949999999	-38.3775437
+1040	maso	01f7d5d9145f3315	AR	city	Viedma	Viedma, Argentina	Argentina	1066	-62.9962044	-40.8119087
+1042	maso	00deb766245f441c	CR	city	San Jose	San Jose, Costa Rica	Costa Rica	459	-84.0907246	9.9280694
+1046	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1053	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1054	maso	003360dc7574e183	AR	city	Belén de Escobar	Belén de Escobar, Argentina	Argentina	115	-58.7849434	-34.3402525
+1058	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+1065	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+1071	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+1075	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+1076	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1083	maso maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1087	maso	0077cc1035dbc780	UY	admin	Soriano	Soriano, Uruguay	Uruguay	259	-58.21695599999999	-33.529522299999996
+1089	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+1090	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1096	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1101	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+1126	maso	0032fe6c612e7934	AR	city	Campana	Campana, Argentina	Argentina	114	-58.95926429999999	-34.1633346
+1135	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1145	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+1199	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+1200	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1212	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+1217	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1219	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+1228	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+1229	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+1238	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+1239	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1245	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1246	maso	01f848e9689de257	UY	admin	Rio Negro	Rio Negro, Uruguay	Uruguay	1067	-57.78261430000001	-33.0565975
+1247	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+1254	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1255	maso	0005a92a6b72edeb	AR	city	Pilar	Pilar, Argentina	Argentina	14	-58.9091671	-34.4778621
+1256	maso	0005a92a6b72edeb	AR	city	Pilar	Pilar, Argentina	Argentina	14	-58.9091671	-34.4778621
+1258	maso	00aecc853a5cea98	AR	city	Trelew	Trelew, Argentina	Argentina	363	-65.30763510000001	-43.2493016
+1262	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1263	maso	003642767728b348	AR	city	Mar Chiquita	Mar Chiquita, Argentina	Argentina	123	-62.5551263	-30.706441
+1268	maso	00698a5d6382c442	CO	city	Sincelejo	Sincelejo, Colombia	Colombia	224	-75.39055669999999	9.3045773
+1271	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+1272	maso	008c97514d5ef4da	PE	city	San isidro	San isidro, Peru	Peru	297	-77.0400804	-12.0952651
+1281	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1283	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+1290	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+1291	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+1292	maso	7ba06860ba32da18	AR	admin	Neuquén	Neuquén, Argentina	Argentina	2281	-68.0591888	-38.9516784
+1294	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1297	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1312	maso	0155aba4519b8d8d	UY	admin	San José	San José, Uruguay	Uruguay	722	-56.7075141	-34.3486042
+1315	maso	005bf2190435cf68	PE	city	Santiago de Surco	Santiago de Surco, Peru	Peru	200	-76.9918155	-12.1416088
+1320	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1321	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+1322	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+1327	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+1329	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+1330	maso	01095dea21538f8b	AR	city	General Rodríguez	General Rodríguez, Argentina	Argentina	551	-58.95432650000001	-34.6083013
+1334	maso	01c0a65e1a84b613	AR	city	San Vicente	San Vicente, Argentina	Argentina	946	-58.423763	-35.0241134
+1335	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1371	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+1384	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+1385	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1386	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1389	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1391	maso	1d23c6309ee6decf	AR	admin	Formosa	Formosa, Argentina	Argentina	1323	-58.1755669	-26.1857768
+1392	maso	00758a48394df3ce	AR	city	Villa Soldati	Villa Soldati, Argentina	Argentina	254	-58.442814	-34.6595958
+1394	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+1395	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1396	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1397	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+1399	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1400	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1401	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+1402	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+1406	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+1407	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+1411	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1412	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1414	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1417	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1420	maso	13d479b108707983	GT	country	Guatemala	Guatemala	Guatemala	1258	-90.23075899999999	15.783471
+1421	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1422	maso	7ef2a4f4beedc767	AR	admin	Chaco	Chaco, Argentina	Argentina	2316	-59.02437839999999	-27.4257175
+1424	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1429	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+1430	maso	01effa374e0e59ae	AR	city	Alto los Cardales	Alto los Cardales, Argentina	Argentina	1046	-58.971895	-34.3123304
+1431	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+1433	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+1434	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1436	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+1437	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1438	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+1440	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1445	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+1446	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+1447	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+1449	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+1450	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+1451	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+1453	maso	01afb3384ee625c5	AR	city	Soldini	Soldini, Argentina	Argentina	910	-60.7547183	-33.020688
+1454	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1455	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1456	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1458	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1460	maso	cb407226ddba7ce4	MX	city	Solidaridad	Solidaridad, Quintana Roo	México	2974	-87.07796139999999	20.6351101
+1461	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1463	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+1471	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1474	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+1475	maso	009026cf352d7a64	PE	city	El Agustino	El Agustino, Peru	Peru	307	-76.99117199999999	-12.0325966
+1476	maso	0145137e2190e5d7	AR	city	Rosario del Talá	Rosario del Talá, Argentina	Argentina	687	-59.1443273	-32.3032364
+1500	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+1501	maso	119603033586271	AR	NA	NA	NA	NA	NA	NA	NA
+1508	maso	13d479b108707983	GT	country	Guatemala	Guatemala	Guatemala	1258	-90.23075899999999	15.783471
+1516	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1523	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1525	maso	01c2a15275495456	UY	admin	Colonia	Colonia, Uruguay	Uruguay	949	-57.6106775	-34.2642474
+1526	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1538	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+1539	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1540	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+1542	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+1544	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+1545	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1546	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+1547	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1549	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1550	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+1556	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1559	maso	f6b87aec17cb031d	MX	city	Morelia	Morelia, Michoacán de Ocampo	México	3357	-101.1949825	19.7059504
+1560	maso	00af62de7c9457c0	AR	city	Plottier	Plottier, Argentina	Argentina	364	-68.22885	-38.9475672
+1561	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+1596	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+1602	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1607	maso maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1608	maso maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1612	maso maso	6591282d67e31598	AR	admin	Corrientes	Corrientes, Argentina	Argentina	2066	-58.8306349	-27.4692131
+1613	maso maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+1614	maso maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+1615	maso maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+1617	maso maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1618	maso maso	017b020b787dae92	AR	city	Colón	Colón, Argentina	Argentina	803	-58.1447142	-32.2249328
+1632	maso	0161be1b3f98d6c3	CO	city	Bogotá, D.C.	Bogotá, D.C., Colombia	Colombia	749	-74.072092	4.710988599999999
+1634	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+1636	maso	01ef53325401a80c	AR	city	Posadas	Posadas, Argentina	Argentina	1044	-55.90087459999999	-27.3621374
+1637	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+1638	maso	00758a48394df3ce	AR	city	Villa Soldati	Villa Soldati, Argentina	Argentina	254	-58.442814	-34.6595958
+1639	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1641	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+1644	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1646	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+1647	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1648	maso	0114727642b6d1dd	UY	admin	Lavalleja	Lavalleja, Uruguay	Uruguay	581	-55.2371458	-34.3743239
+1649	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+1651	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+1653	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1655	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+1659	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1661	maso	0032fe6c612e7934	AR	city	Campana	Campana, Argentina	Argentina	114	-58.95926429999999	-34.1633346
+1665	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+1670	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1671	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+1672	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+1675	maso	0161be1b3f98d6c3	CO	city	Bogotá, D.C.	Bogotá, D.C., Colombia	Colombia	749	-74.072092	4.710988599999999
+1676	maso	004b0baa7979aa88	AR	city	Santa María	Santa María, Argentina	Argentina	164	-66.0459116	-26.7035442
+1678	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+2230	maso	00ba91045bd853c2	AR	city	Venado Tuerto	Venado Tuerto, Argentina	Argentina	394	-61.9690161	-33.7455566
+2232	maso	013522304ee10b39	AR	city	Comodoro Rivadavia	Comodoro Rivadavia, Argentina	Argentina	655	-67.4822429	-45.8656149
+2233	maso	009026cf352d7a64	PE	city	El Agustino	El Agustino, Peru	Peru	307	-76.99117199999999	-12.0325966
+2241	maso	0032fe6c612e7934	AR	city	Campana	Campana, Argentina	Argentina	114	-58.95926429999999	-34.1633346
+2242	maso	0032fe6c612e7934	AR	city	Campana	Campana, Argentina	Argentina	114	-58.95926429999999	-34.1633346
+2257	maso	01d13f2529da75c4	AR	city	Paraná	Paraná, Argentina	Argentina	974	-60.51154709999999	-31.7413197
+2259	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2261	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2264	maso	6d2a1853fbcdb3d9	AR	admin	Catamarca	Catamarca, Argentina	Argentina	2127	-65.7795441	-28.469581
+2281	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2287	maso	0032baff35718ca4	AR	city	Berazategui	Berazategui, Argentina	Argentina	113	-58.2112961	-34.762001
+2288	maso	6eb95eddb81a6b4b	MX	city	Benito Juárez	Benito Juárez, Quintana Roo	México	2146	-86.8663978	21.1398997
+2289	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+2290	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2291	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2300	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+2302	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2304	maso	01f1bbb61bd619da	UY	admin	Florida	Florida, Uruguay	Uruguay	1053	-56.2202946	-34.0948167
+2305	maso	30e5bcffda059c80	AR	admin	Mendoza	Mendoza, Argentina	Argentina	1549	-68.8458386	-32.8894587
+2306	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2311	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+2316	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+2317	maso	00b62c7d4e24b866	AR	city	San Lorenzo	San Lorenzo, Argentina	Argentina	382	-60.73567540000001	-32.747416
+2321	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+2325	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+2326	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+2327	maso	014e124562aef263	AR	city	General Obligado	General Obligado, Argentina	Argentina	704	-59.5642369	-28.729529
+2328	maso	33c4b9983fe31b5d	AR	admin	Misiones	Misiones, Argentina	Argentina	1575	-55.9467076	-27.4269255
+2329	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+2330	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+2331	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2332	maso	6591282d67e31598	AR	admin	Corrientes	Corrientes, Argentina	Argentina	2066	-58.8306349	-27.4692131
+2333	maso	017b020b787dae92	AR	city	Colón	Colón, Argentina	Argentina	803	-58.1447142	-32.2249328
+2334	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2335	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2343	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2344	maso	00a8d523465806f4	AR	city	Colón	Colón, Argentina	Argentina	351	-58.1447142	-32.2249328
+2356	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+2357	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+2359	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+2362	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+2371	maso	c5c72776b9f0cc0b	MX	city	San Nicolás de los Garza	San Nicolás de los Garza, Nuevo León	México	2921	-100.2868973	25.7493469
+2374	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2375	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2376	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2377	maso	00e7b64c59c9aa38	PE	city	Viru	Viru, Peru	Peru	4148	-78.67578069999999	-8.541058399999999
+2378	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2381	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+2382	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2384	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2388	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+2390	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+2392	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+2397	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2422	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2425	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+2426	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+2427	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2436	maso	e27d16c7e8b6cb21	BR	city	Sant'Ana do Livramento	Sant'Ana do Livramento, Brasil	Brasil	3179	-55.5392304	-30.8772854
+2441	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+2442	maso	0161be1b3f98d6c3	CO	city	Bogotá, D.C.	Bogotá, D.C., Colombia	Colombia	749	-74.072092	4.710988599999999
+2451	maso	0158176431a82700	AR	city	San Justo	San Justo, Argentina	Argentina	730	-58.5632629	-34.6874084
+2455	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+2456	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2459	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+2477	maso	0170dabf497f90fb	AR	city	San Miguel del Monte	San Miguel del Monte, Argentina	Argentina	783	-58.8070938	-35.4411249
+2480	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+2496	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+2500	maso	01af35f5243efca4	PE	city	Jesús Maria	Jesús Maria, Peru	Peru	908	-77.0506498	-12.0825241
+2503	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2505	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2508	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2514	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2519	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+2520	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2539	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2541	maso	003360dc7574e183	AR	city	Belén de Escobar	Belén de Escobar, Argentina	Argentina	115	-58.7849434	-34.3402525
+2545	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+2548	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2549	maso que	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+2550	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+2551	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+2552	maso que	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+2553	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2555	maso	012a97e00aba1e81	AR	city	Ituzaingó Centro	Ituzaingó Centro, Argentina	Argentina	626	-58.6753978	-34.6570243
+2556	maso	c7c2233ad8246f5d	MX	city	Venustiano Carranza	Venustiano Carranza, Distrito Federal	México	2940	-99.0949899	19.4306069
+2563	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+2586	maso	014f72200f706d3f	AR	city	Caseros	Caseros, Argentina	Argentina	708	-58.5634631	-34.6094827
+2596	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+2597	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+2598	maso	013044056c4adf51	AR	city	Monte Grande	Monte Grande, Argentina	Argentina	642	-58.4620124	-34.8271786
+2599	maso que	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2603	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+2604	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+2605	maso que	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2606	maso	003360dc7574e183	AR	city	Belén de Escobar	Belén de Escobar, Argentina	Argentina	115	-58.7849434	-34.3402525
+2607	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2608	maso	0138a2ed609c5a53	AR	city	González Catán	González Catán, Argentina	Argentina	658	-58.6315295	-34.7624548
+2610	maso que	0005a92a6b72edeb	AR	city	Pilar	Pilar, Argentina	Argentina	14	-58.9091671	-34.4778621
+2613	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+2641	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+2642	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+2644	maso	003090295e0dcbe4	AR	city	Mar de Ajó	Mar de Ajó, Argentina	Argentina	106	-56.6750185	-36.7232497
+2648	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2661	maso	005b9f350cad74f6	CO	city	Popayán	Popayán, Colombia	Colombia	199	-76.6147395	2.4448143
+2663	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+2666	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2670	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+2672	maso	0016b0ca4701a899	CO	city	Buenaventura	Buenaventura, Colombia	Colombia	46	-77.01972119999999	3.8830471
+2673	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2679	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+2692	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2695	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+2697	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+2702	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+2703	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+2706	maso	2400156d6de057e3	MX	city	Tijuana	Tijuana, Baja California	México	1415	-117.0382471	32.5149469
+2709	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+2712	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2714	maso	0161be1b3f98d6c3	CO	city	Bogotá, D.C.	Bogotá, D.C., Colombia	Colombia	749	-74.072092	4.710988599999999
+2716	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2725	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+2727	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+2732	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2738	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2744	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+2747	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+2750	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2751	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+2755	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+2760	maso	00b3fc8c4487f71e	AR	city	San Fernando	San Fernando, Argentina	Argentina	374	-58.55796429999999	-34.4430618
+2766	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+2769	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2776	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+2798	maso	013044056c4adf51	AR	city	Monte Grande	Monte Grande, Argentina	Argentina	642	-58.4620124	-34.8271786
+2800	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2801	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2802	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+2811	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2815	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+2817	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2843	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+2846	maso	25530ba03b7d90c6	MX	country	Mexico	Mexico	México	1432	-102.552784	23.634501
+2853	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+2860	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+2862	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+2875	maso	01d9bafa50086160	AR	city	Rada Tilly	Rada Tilly, Argentina	Argentina	992	-67.55290459999999	-45.9245822
+2878	maso	017f47ab29a7772a	AR	city	Formosa	Formosa, Argentina	Argentina	816	-58.1755669	-26.1857768
+2879	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+2904	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+2905	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+2906	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2907	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+2908	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2909	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2910	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2911	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+2919	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2920	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2921	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2922	maso	bfc35dcc7e63252a	MX	city	Cuauhtémoc	Cuauhtémoc, Distrito Federal	México	2869	-99.1495107	19.4356338
+2923	maso	014f72200f706d3f	AR	city	Caseros	Caseros, Argentina	Argentina	708	-58.5634631	-34.6094827
+2924	maso	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+2925	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+2926	maso	b19e24ce42ccd6aa	MX	city	Monterrey	Monterrey, Nuevo León	México	2757	-100.3161126	25.6866142
+2927	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+2928	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+2932	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+2934	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+2937	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2941	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2946	maso	014f72200f706d3f	AR	city	Caseros	Caseros, Argentina	Argentina	708	-58.5634631	-34.6094827
+2948	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2953	maso	6591282d67e31598	AR	admin	Corrientes	Corrientes, Argentina	Argentina	2066	-58.8306349	-27.4692131
+2954	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+2955	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2956	maso	c7c2233ad8246f5d	MX	city	Venustiano Carranza	Venustiano Carranza, Distrito Federal	México	2940	-99.0949899	19.4306069
+2959	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+2960	maso	01ef53325401a80c	AR	city	Posadas	Posadas, Argentina	Argentina	1044	-55.90087459999999	-27.3621374
+2963	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2964	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2965	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2966	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+2967	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+2969	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+2972	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+2973	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+2989	maso	72ee18b0510eb501	MX	admin	Distrito Federal	Distrito Federal, México	México	2195	-99.133208	19.4326077
+2991	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+2993	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2994	maso	00e934ca5bc48cb6	AR	city	Hurlingham	Hurlingham, Argentina	Argentina	478	-58.62755019999999	-34.589571
+2995	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2997	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3003	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3004	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3006	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+3010	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+3019	maso	5482108831148f3c	AR	admin	Salta	Salta, Argentina	Argentina	1901	-65.4231976	-24.7821269
+3020	maso maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+3021	maso maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3023	maso maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+3026	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+61	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+101	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+121	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+122	sincontexto	c5c72776b9f0cc0b	MX	city	San Nicolás de los Garza	San Nicolás de los Garza, Nuevo León	México	2921	-100.2868973	25.7493469
+146	sincontexto	13d479b108707983	GT	country	Guatemala	Guatemala	Guatemala	1258	-90.23075899999999	15.783471
+289	maso	0085b01d4f65f576	AR	city	Salta	Salta, Argentina	Argentina	281	-65.4231976	-24.7821269
+334	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+977	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+1002	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+1005	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+1034	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+1045	maso	0005a92a6b72edeb	AR	city	Pilar	Pilar, Argentina	Argentina	14	-58.9091671	-34.4778621
+1047	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+1048	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1050	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+1150	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+1159	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+1201	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1220	sincontexto	005bf2190435cf68	PE	city	Santiago de Surco	Santiago de Surco, Peru	Peru	200	-76.9918155	-12.1416088
+1221	sincontexto	005bf2190435cf68	PE	city	Santiago de Surco	Santiago de Surco, Peru	Peru	200	-76.9918155	-12.1416088
+1236	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+1248	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+1276	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+1277	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+1302	sincontexto	13d479b108707983	GT	country	Guatemala	Guatemala	Guatemala	1258	-90.23075899999999	15.783471
+1332	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+1345	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+1390	sincontexto	13d479b108707983	GT	country	Guatemala	Guatemala	Guatemala	1258	-90.23075899999999	15.783471
+1393	maso	4d3b316fe2e52b29	AR	country	Argentina	Argentina	Argentina	1826	-63.61667199999999	-38.416097
+1398	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+1408	maso	00a8d523465806f4	AR	city	Colón	Colón, Argentina	Argentina	351	-58.1447142	-32.2249328
+1415	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+1427	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+1432	maso	005ca01756b27db6	AR	city	Villa Gesell	Villa Gesell, Argentina	Argentina	201	-56.97141939999999	-37.2598939
+1462	sincontexto	015ebf2571d0d8ce	CO	city	Bucaramanga	Bucaramanga, Colombia	Colombia	743	-73.1227416	7.119349
+1517	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+1563	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+1654	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+2258	sincontexto	014c9da514e05f59	CO	city	Pasto	Pasto, Colombia	Colombia	701	-77.285787	1.2058837
+2285	sincontexto	f6b87aec17cb031d	MX	city	Morelia	Morelia, Michoacán de Ocampo	México	3357	-101.1949825	19.7059504
+2308	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+2309	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+2339	sincontexto	043383f8b2b79918	VE	country	Venezuela	Venezuela	Venezuela	1105	-66.58973	6.42375
+2395	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+2409	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2423	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+2424	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+2429	sincontexto	0161be1b3f98d6c3	CO	city	Bogotá, D.C.	Bogotá, D.C., Colombia	Colombia	749	-74.072092	4.710988599999999
+2445	sincontexto	008c97514d5ef4da	PE	city	San isidro	San isidro, Peru	Peru	297	-77.0400804	-12.0952651
+2446	maso	30e5bcffda059c80	AR	admin	Mendoza	Mendoza, Argentina	Argentina	1549	-68.8458386	-32.8894587
+2452	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+2460	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+2536	sincontexto	00aae48175646039	CL	city	Punta Arenas	Punta Arenas, Chile	Chile	354	-70.9170683	-53.1638329
+2587	sincontexto	014be4b32ac71d2f	PE	city	San Juan de Lurigancho	San Juan de Lurigancho, Peru	Peru	696	-76.99398359999999	-11.9689301
+2707	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+2720	maso	056f095744ceb021	AR	admin	San Luis	San Luis, Argentina	Argentina	1118	-66.3377522	-33.3017267
+2730	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+2753	maso	01e184351f8c7470	AR	city	Río Grande	Río Grande, Argentina	Argentina	1010	-67.7002243	-53.7860374
+2877	maso	017d4fef075a2cf1	AR	city	Santiago del Estero	Santiago del Estero, Argentina	Argentina	813	-64.264167	-27.7833574
+2987	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3013	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3038	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3043	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3050	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3058	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3074	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3078	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3103	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3124	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3131	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3156	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3161	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3164	maso	01f848e9689de257	UY	admin	Rio Negro	Rio Negro, Uruguay	Uruguay	1067	-57.78261430000001	-33.0565975
+3167	maso	005ebcae757ae11d	AR	city	Miramar	Miramar, Argentina	Argentina	205	-57.8394498	-38.2703168
+3168	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+3178	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3179	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3182	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3184	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3210	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3216	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3217	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3221	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+3231	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3233	maso	01f0c71900c3ee18	AR	city	Lobos	Lobos, Argentina	Argentina	1049	-59.0975278	-35.1853611
+3248	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+3257	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3273	maso	01f0c71900c3ee18	AR	city	Lobos	Lobos, Argentina	Argentina	1049	-59.0975278	-35.1853611
+3274	maso	0077cc1035dbc780	UY	admin	Soriano	Soriano, Uruguay	Uruguay	259	-58.21695599999999	-33.529522299999996
+3290	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3295	maso	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+3303	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3309	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3310	maso	0138a2ed609c5a53	AR	city	González Catán	González Catán, Argentina	Argentina	658	-58.6315295	-34.7624548
+3312	maso	0140d85c76fae062	AR	city	San Nicolás de los Arroyos	San Nicolás de los Arroyos, Argentina	Argentina	673	-60.2110494	-33.3334669
+3314	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3319	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3323	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3335	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3349	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3358	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+3361	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+3364	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+3378	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3396	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3407	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+3410	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3420	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3424	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3433	maso	012a97e00aba1e81	AR	city	Ituzaingó Centro	Ituzaingó Centro, Argentina	Argentina	626	-58.6753978	-34.6570243
+3434	maso	0032fe6c612e7934	AR	city	Campana	Campana, Argentina	Argentina	114	-58.95926429999999	-34.1633346
+3441	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3482	maso	0ab9fd6675769ba4	AR	admin	La Pampa	La Pampa, Argentina	Argentina	1178	-64.2839209	-36.6147573
+3483	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3490	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3491	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3498	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3525	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+3528	maso	00758a48394df3ce	AR	city	Villa Soldati	Villa Soldati, Argentina	Argentina	254	-58.442814	-34.6595958
+3531	maso	013044056c4adf51	AR	city	Monte Grande	Monte Grande, Argentina	Argentina	642	-58.4620124	-34.8271786
+3533	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3544	maso	00980b8527832b2e	AR	city	Goya	Goya, Argentina	Argentina	326	-59.2643242	-29.1442242
+3546	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3547	maso	00ae0df24e0f83c2	AR	city	Concordia	Concordia, Argentina	Argentina	361	-58.01743399999999	-31.3913921
+3550	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3555	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3561	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3568	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3588	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3592	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3616	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+3619	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3620	maso	01fba2a14bc1aaea	AR	city	José María Ezeiza	José María Ezeiza, Argentina	Argentina	1071	-58.5168221	-34.8637604
+3626	maso	0155aba4519b8d8d	UY	admin	San José	San José, Uruguay	Uruguay	722	-56.7075141	-34.3486042
+3629	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3633	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3635	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3638	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3647	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3651	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3659	maso	4d3b316fe2e52b29	AR	country	Argentina	Argentina	Argentina	1826	-63.61667199999999	-38.416097
+3661	maso	001040bd29e08949	AR	city	Ushuaia	Ushuaia, Argentina	Argentina	38	-68.3029511	-54.8019121
+3680	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3682	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3690	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3698	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3703	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3709	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+3717	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+3719	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3720	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3722	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+3723	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3726	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3737	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3739	maso	013522304ee10b39	AR	city	Comodoro Rivadavia	Comodoro Rivadavia, Argentina	Argentina	655	-67.4822429	-45.8656149
+3750	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3753	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3755	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3756	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3761	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3772	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+3778	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3783	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3785	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3811	maso	01effa374e0e59ae	AR	city	Alto los Cardales	Alto los Cardales, Argentina	Argentina	1046	-58.971895	-34.3123304
+3817	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3819	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3827	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3828	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3829	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3835	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3843	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3855	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3864	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3866	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3877	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3879	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3881	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3891	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3928	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3934	maso	005ca01756b27db6	AR	city	Villa Gesell	Villa Gesell, Argentina	Argentina	201	-56.97141939999999	-37.2598939
+3950	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3961	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3968	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3972	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+3975	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3982	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3985	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3987	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3992	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+3997	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+4015	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+4021	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+4024	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+4029	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+4035	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+4063	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+4065	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+4072	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+4077	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3029	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+3030	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3039	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3040	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3044	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3046	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3048	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3049	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3051	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3052	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3057	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3060	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3065	maso	00576d9415c4634b	UY	admin	Flores	Flores, Uruguay	Uruguay	187	-56.8984566	-33.5169429
+3066	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+3069	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3071	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3072	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3075	maso	013044056c4adf51	AR	city	Monte Grande	Monte Grande, Argentina	Argentina	642	-58.4620124	-34.8271786
+3076	maso	00b3fc8c4487f71e	AR	city	San Fernando	San Fernando, Argentina	Argentina	374	-58.55796429999999	-34.4430618
+3077	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3080	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3081	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+3082	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3083	maso	011abdad7dddec83	AR	city	San Carlos de Bariloche	San Carlos de Bariloche, Argentina	Argentina	596	-71.3102778	-41.1334722
+3084	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3085	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3088	maso	01f1bbb61bd619da	UY	admin	Florida	Florida, Uruguay	Uruguay	1053	-56.2202946	-34.0948167
+3090	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3091	maso	01df29355ffa0d6b	AR	city	Santa Rosa	Santa Rosa, Argentina	Argentina	1004	-64.2912369	-36.620922
+3092	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3093	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3095	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+3097	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3098	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3099	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3100	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3102	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+3104	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+3106	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3109	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+3111	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+3112	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3114	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3116	maso	002880af1d28ba81	AR	city	Carmen de Patagones	Carmen de Patagones, Argentina	Argentina	90	-62.9803611	-40.7986389
+3117	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+3119	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3121	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3123	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3125	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3128	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3132	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+3133	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3138	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3139	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3140	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3141	maso	011abdad7dddec83	AR	city	San Carlos de Bariloche	San Carlos de Bariloche, Argentina	Argentina	596	-71.3102778	-41.1334722
+3142	maso	0077cc1035dbc780	UY	admin	Soriano	Soriano, Uruguay	Uruguay	259	-58.21695599999999	-33.529522299999996
+3143	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3144	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+3146	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3149	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3151	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3154	maso	00aadc5551cd4446	AR	city	Caleta Olivia	Caleta Olivia, Argentina	Argentina	353	-67.5171533	-46.4425647
+3158	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3159	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3163	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3165	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+3166	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3169	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3172	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3173	maso	119603033586271	AR	NA	NA	NA	NA	NA	NA	NA
+3174	maso	01f1bbb61bd619da	UY	admin	Florida	Florida, Uruguay	Uruguay	1053	-56.2202946	-34.0948167
+3175	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+3176	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3177	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3181	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+3185	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3186	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3187	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3191	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+3195	maso	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+3196	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3198	maso	0114727642b6d1dd	UY	admin	Lavalleja	Lavalleja, Uruguay	Uruguay	581	-55.2371458	-34.3743239
+3201	maso	01ef53325401a80c	AR	city	Posadas	Posadas, Argentina	Argentina	1044	-55.90087459999999	-27.3621374
+3203	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3204	maso	00ccde463aac66d2	AR	city	Berisso	Berisso, Argentina	Argentina	424	-57.88371729999999	-34.8730675
+3206	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3207	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3209	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3211	maso	00698bbe577bad5b	CO	city	Medellín	Medellín, Colombia	Colombia	225	-75.596392	6.268678
+3212	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+3213	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+3218	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+3223	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3228	maso	01265d8c62a2c72f	UY	admin	Rivera	Rivera, Uruguay	Uruguay	615	-55.5469032	-30.9178625
+3229	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3230	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3234	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3235	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3236	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3238	maso	789cbde0feb1d0e2	AR	admin	Chubut	Chubut, Argentina	Argentina	2247	-65.11148179999999	-43.2934246
+3239	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+3240	maso	01265d8c62a2c72f	UY	admin	Rivera	Rivera, Uruguay	Uruguay	615	-55.5469032	-30.9178625
+3241	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3243	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+3244	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3246	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3249	maso	014f72200f706d3f	AR	city	Caseros	Caseros, Argentina	Argentina	708	-58.5634631	-34.6094827
+3250	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3254	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3256	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3260	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3261	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3263	maso	00aecc853a5cea98	AR	city	Trelew	Trelew, Argentina	Argentina	363	-65.30763510000001	-43.2493016
+3264	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+3265	maso	7ef2a4f4beedc767	AR	admin	Chaco	Chaco, Argentina	Argentina	2316	-59.02437839999999	-27.4257175
+3269	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3270	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3272	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+3275	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3278	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3279	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3280	maso	0021712c0bd7eec1	AR	city	San Miguel de Tucumán	San Miguel de Tucumán, Argentina	Argentina	71	-65.2175903	-26.8082848
+3281	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3283	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3284	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3285	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3289	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3294	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3296	maso	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+3297	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3298	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+3300	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3301	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3302	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3304	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3306	maso	0162954011ffbde8	AR	city	Luján	Luján, Argentina	Argentina	753	-59.1208805	-34.5633312
+3307	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3308	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3311	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3315	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+3316	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3317	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3321	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3322	maso	011abdad7dddec83	AR	city	San Carlos de Bariloche	San Carlos de Bariloche, Argentina	Argentina	596	-71.3102778	-41.1334722
+3324	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3325	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3327	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3328	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3329	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3330	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3336	maso	25530ba03b7d90c6	MX	country	Mexico	Mexico	México	1432	-102.552784	23.634501
+3341	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3344	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3345	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3346	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+3347	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3350	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3354	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3357	maso	01c2a15275495456	UY	admin	Colonia	Colonia, Uruguay	Uruguay	949	-57.6106775	-34.2642474
+3359	maso	011abdad7dddec83	AR	city	San Carlos de Bariloche	San Carlos de Bariloche, Argentina	Argentina	596	-71.3102778	-41.1334722
+3360	maso	00758a48394df3ce	AR	city	Villa Soldati	Villa Soldati, Argentina	Argentina	254	-58.442814	-34.6595958
+3362	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3363	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3365	maso	0155aba4519b8d8d	UY	admin	San José	San José, Uruguay	Uruguay	722	-56.7075141	-34.3486042
+3366	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3367	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3368	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3369	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3370	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+3371	maso	01f848e9689de257	UY	admin	Rio Negro	Rio Negro, Uruguay	Uruguay	1067	-57.78261430000001	-33.0565975
+3374	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+3375	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+3376	maso	014a38a754ca1dbc	AR	city	Morón	Morón, Argentina	Argentina	695	-58.6167212	-34.6558611
+3377	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3382	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3385	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+3386	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3389	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3390	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3391	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3393	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3394	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3398	maso	0032baff35718ca4	AR	city	Berazategui	Berazategui, Argentina	Argentina	113	-58.2112961	-34.762001
+3401	maso	01fd50ae72f37614	PE	city	Miraflores	Miraflores, Peru	Peru	1076	-77.0315913	-12.111062
+3408	maso	0077cc1035dbc780	UY	admin	Soriano	Soriano, Uruguay	Uruguay	259	-58.21695599999999	-33.529522299999996
+3409	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3412	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3413	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3416	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3417	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3418	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3419	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3421	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3422	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+3423	maso	01c2a15275495456	UY	admin	Colonia	Colonia, Uruguay	Uruguay	949	-57.6106775	-34.2642474
+3425	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3426	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+3427	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3428	maso	01fba2a14bc1aaea	AR	city	José María Ezeiza	José María Ezeiza, Argentina	Argentina	1071	-58.5168221	-34.8637604
+3429	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3430	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3431	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+3432	maso	00698bbe577bad5b	CO	city	Medellín	Medellín, Colombia	Colombia	225	-75.596392	6.268678
+3435	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3436	maso	2dfa9ecb0179a4e4	PE	country	Peru	Peru	Peru	1522	-75.015152	-9.189967
+3438	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3439	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3442	maso	d3492c68c5661201	MX	city	Querétaro	Querétaro, Querétaro Arteaga	México	3052	-100.3898881	20.5887932
+3445	maso	017d4fef075a2cf1	AR	city	Santiago del Estero	Santiago del Estero, Argentina	Argentina	813	-64.264167	-27.7833574
+3446	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3448	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3450	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3451	maso	018487991bb57bfe	AR	city	Capitán Bermudez	Capitán Bermudez, Argentina	Argentina	826	-60.7208217	-32.8153121
+3456	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3459	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3460	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3461	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3462	maso	01f848e9689de257	UY	admin	Rio Negro	Rio Negro, Uruguay	Uruguay	1067	-57.78261430000001	-33.0565975
+3463	maso	003090295e0dcbe4	AR	city	Mar de Ajó	Mar de Ajó, Argentina	Argentina	106	-56.6750185	-36.7232497
+3464	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+3465	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3466	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3467	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3468	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3469	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3470	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+3471	maso	014f72200f706d3f	AR	city	Caseros	Caseros, Argentina	Argentina	708	-58.5634631	-34.6094827
+3473	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3474	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3479	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3485	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3488	maso	0081a4b50a833f88	AR	city	General Las Heras	General Las Heras, Argentina	Argentina	275	-58.94670399999999	-34.9267359
+3489	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3495	maso	014a38a754ca1dbc	AR	city	Morón	Morón, Argentina	Argentina	695	-58.6167212	-34.6558611
+3501	maso	00ccde463aac66d2	AR	city	Berisso	Berisso, Argentina	Argentina	424	-57.88371729999999	-34.8730675
+3502	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3503	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3505	maso	00b3fc8c4487f71e	AR	city	San Fernando	San Fernando, Argentina	Argentina	374	-58.55796429999999	-34.4430618
+3506	maso	00f84d414936f28e	AR	city	Córdoba	Córdoba, Argentina	Argentina	508	-64.1887761	-31.42008329999999
+3508	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3514	maso	00980b8527832b2e	AR	city	Goya	Goya, Argentina	Argentina	326	-59.2643242	-29.1442242
+3515	maso	2cc8747e1f1a2fd6	MX	city	Mazatlán	Mazatlán, Sinaloa	México	1509	-106.4111425	23.2494148
+3517	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+3520	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+3521	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3522	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3523	maso	00aadc5551cd4446	AR	city	Caleta Olivia	Caleta Olivia, Argentina	Argentina	353	-67.5171533	-46.4425647
+3524	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3526	maso	0148157228b7268a	AR	city	Guernica	Guernica, Argentina	Argentina	689	-58.3838059	-34.9178701
+3527	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+3529	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3530	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3532	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3537	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3539	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3542	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3543	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3549	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3554	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3557	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3558	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3562	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3564	maso	0155aba4519b8d8d	UY	admin	San José	San José, Uruguay	Uruguay	722	-56.7075141	-34.3486042
+3567	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3572	maso	00d56adc79da66a3	AR	city	San Juan	San Juan, Argentina	Argentina	441	-68.5385941	-31.5351074
+3574	maso	0134e9670afa8f32	AR	city	Merlo	Merlo, Argentina	Argentina	653	-65.0157565	-32.3478326
+3575	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+3576	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3582	maso	0a738ff13a08a7dd	AR	admin	Santa Fe	Santa Fe, Argentina	Argentina	1174	-60.697294	-31.6106578
+3583	maso	c7c2233ad8246f5d	MX	city	Venustiano Carranza	Venustiano Carranza, Distrito Federal	México	2940	-99.0949899	19.4306069
+3584	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+3586	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3587	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3591	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3595	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3596	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3599	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3600	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3602	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3610	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3611	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3612	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3613	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3614	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3617	maso	01effa374e0e59ae	AR	city	Alto los Cardales	Alto los Cardales, Argentina	Argentina	1046	-58.971895	-34.3123304
+3618	maso	789cbde0feb1d0e2	AR	admin	Chubut	Chubut, Argentina	Argentina	2247	-65.11148179999999	-43.2934246
+3622	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3623	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3624	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+3627	maso	00bce9177d4d3f0f	PE	city	Cerro Colorado	Cerro Colorado, Peru	Peru	3810	-71.55573849999999	-16.3814477
+3628	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3630	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3631	maso	c7c2233ad8246f5d	MX	city	Venustiano Carranza	Venustiano Carranza, Distrito Federal	México	2940	-99.0949899	19.4306069
+3632	maso	012a97e00aba1e81	AR	city	Ituzaingó Centro	Ituzaingó Centro, Argentina	Argentina	626	-58.6753978	-34.6570243
+3634	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3636	maso	e27d16c7e8b6cb21	BR	city	Sant'Ana do Livramento	Sant'Ana do Livramento, Brasil	Brasil	3179	-55.5392304	-30.8772854
+3639	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3640	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3641	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3643	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+3648	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+3650	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3653	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3654	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3656	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3657	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3658	maso	c734bf0063981051	MX	city	Apodaca	Apodaca, Nuevo León	México	2934	-100.1858743	25.776468
+3662	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+3665	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+3666	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3667	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3670	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3672	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3676	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3677	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3679	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3683	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3684	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3689	maso	00980b8527832b2e	AR	city	Goya	Goya, Argentina	Argentina	326	-59.2643242	-29.1442242
+3691	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3692	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3693	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3695	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3697	maso	00758a48394df3ce	AR	city	Villa Soldati	Villa Soldati, Argentina	Argentina	254	-58.442814	-34.6595958
+3700	maso	0005a92a6b72edeb	AR	city	Pilar	Pilar, Argentina	Argentina	14	-58.9091671	-34.4778621
+3704	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+3707	maso	00b3fc8c4487f71e	AR	city	San Fernando	San Fernando, Argentina	Argentina	374	-58.55796429999999	-34.4430618
+3711	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+3713	maso	0032baff35718ca4	AR	city	Berazategui	Berazategui, Argentina	Argentina	113	-58.2112961	-34.762001
+3715	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3718	maso	00da823773feadb6	UY	admin	Rocha	Rocha, Uruguay	Uruguay	451	-54.3307438	-34.4809769
+3721	maso	00e4885c7ea8eb39	AR	city	Chascomús	Chascomús, Argentina	Argentina	467	-58.0136464	-35.5776723
+3724	maso	010d7db066434a8a	AR	city	Mar del Plata	Mar del Plata, Argentina	Argentina	563	-57.5426106	-38.0054771
+3728	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3729	maso	01d13f2529da75c4	AR	city	Paraná	Paraná, Argentina	Argentina	974	-60.51154709999999	-31.7413197
+3730	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3731	maso	0138a2ed609c5a53	AR	city	González Catán	González Catán, Argentina	Argentina	658	-58.6315295	-34.7624548
+3732	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3735	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3736	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3740	maso	014a38a754ca1dbc	AR	city	Morón	Morón, Argentina	Argentina	695	-58.6167212	-34.6558611
+3741	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3742	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+3744	maso	017b020b787dae92	AR	city	Colón	Colón, Argentina	Argentina	803	-58.1447142	-32.2249328
+3747	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3748	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3751	maso	0032fe6c612e7934	AR	city	Campana	Campana, Argentina	Argentina	114	-58.95926429999999	-34.1633346
+3752	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3754	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+3757	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3760	maso	206c436ce43a43a3	ES	city	Madrid	Madrid, España	España	1364	-3.7037902	40.4167754
+3763	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3765	maso	01153d1b33e1641b	AR	city	Tigre	Tigre, Argentina	Argentina	586	-58.57965850000001	-34.425087
+3767	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+3769	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3770	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3771	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3775	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3781	maso	0032baff35718ca4	AR	city	Berazategui	Berazategui, Argentina	Argentina	113	-58.2112961	-34.762001
+3782	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3786	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3787	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3788	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3789	maso	00a8405a50f2dd12	AR	city	San Clemente del Tuyú	San Clemente del Tuyú, Argentina	Argentina	350	-56.7185135	-36.3688312
+3790	maso	00a8405a50f2dd12	AR	city	San Clemente del Tuyú	San Clemente del Tuyú, Argentina	Argentina	350	-56.7185135	-36.3688312
+3791	maso	33c4b9983fe31b5d	AR	admin	Misiones	Misiones, Argentina	Argentina	1575	-55.9467076	-27.4269255
+3793	maso	018487991bb57bfe	AR	city	Capitán Bermudez	Capitán Bermudez, Argentina	Argentina	826	-60.7208217	-32.8153121
+3794	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3795	maso	01ef53325401a80c	AR	city	Posadas	Posadas, Argentina	Argentina	1044	-55.90087459999999	-27.3621374
+3796	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+3798	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3800	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3802	maso	017b020b787dae92	AR	city	Colón	Colón, Argentina	Argentina	803	-58.1447142	-32.2249328
+3803	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3805	maso	043383f8b2b79918	VE	country	Venezuela	Venezuela	Venezuela	1105	-66.58973	6.42375
+3806	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3807	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3812	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3813	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3814	maso	01f1bbb61bd619da	UY	admin	Florida	Florida, Uruguay	Uruguay	1053	-56.2202946	-34.0948167
+3815	maso	01c2a15275495456	UY	admin	Colonia	Colonia, Uruguay	Uruguay	949	-57.6106775	-34.2642474
+3818	maso	01ee54ce4d13313d	AR	city	Constitución	Constitución, Argentina	Argentina	1042	-61.0471355	-33.6022037
+3820	maso	00585da77f488367	AR	city	Rafaela	Rafaela, Argentina	Argentina	192	-61.49164219999999	-31.2525979
+3821	maso	003f97dd7a518791	CO	city	Candelaria	Candelaria, Colombia	Colombia	139	-74.0728759	4.597014
+3823	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3824	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+3825	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3826	maso	01f0c71900c3ee18	AR	city	Lobos	Lobos, Argentina	Argentina	1049	-59.0975278	-35.1853611
+3830	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3832	maso	bfc35dcc7e63252a	MX	city	Cuauhtémoc	Cuauhtémoc, Distrito Federal	México	2869	-99.1495107	19.4356338
+3833	maso	004fe39f34e6452f	AR	city	Quilmes	Quilmes, Argentina	Argentina	173	-58.25460510000001	-34.7206336
+3834	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+3836	maso	01c2a15275495456	UY	admin	Colonia	Colonia, Uruguay	Uruguay	949	-57.6106775	-34.2642474
+3838	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3839	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+3840	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3841	maso	00758a48394df3ce	AR	city	Villa Soldati	Villa Soldati, Argentina	Argentina	254	-58.442814	-34.6595958
+3842	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3844	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+3846	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3847	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3848	maso	0077cc1035dbc780	UY	admin	Soriano	Soriano, Uruguay	Uruguay	259	-58.21695599999999	-33.529522299999996
+3850	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+3852	maso	00748b7a76cdeba7	UY	admin	Cerro Largo	Cerro Largo, Uruguay	Uruguay	250	-54.1654081	-32.3769151
+3853	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3856	maso	003360dc7574e183	AR	city	Belén de Escobar	Belén de Escobar, Argentina	Argentina	115	-58.7849434	-34.3402525
+3857	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3861	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+3867	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+3871	maso	008a9ba63cfef4a4	UY	admin	Treinta y Tres	Treinta y Tres, Uruguay	Uruguay	290	-54.357647299999996	-33.229046
+3872	maso	33c4b9983fe31b5d	AR	admin	Misiones	Misiones, Argentina	Argentina	1575	-55.9467076	-27.4269255
+3873	maso	00eacabc1e5298db	AR	city	José Carlos Paz	José Carlos Paz, Argentina	Argentina	481	-58.7662461	-34.5151052
+3874	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3876	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3878	maso	0128fab5ba6d2cd6	MX	city	Tampico	Tampico, Tamaulipas	México	624	-97.861099	22.2331041
+3880	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3882	maso	01419c161b8e9dbd	AR	city	Ensenada	Ensenada, Argentina	Argentina	675	-57.9124307	-34.8607513
+3883	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3884	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3885	maso	00dde8db67eebcf8	AR	city	Resistencia	Resistencia, Argentina	Argentina	456	-58.98555469999999	-27.4518622
+3886	maso	0155aba4519b8d8d	UY	admin	San José	San José, Uruguay	Uruguay	722	-56.7075141	-34.3486042
+3887	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+3888	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3889	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3890	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3892	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+3893	maso	0004c3fb58780d2a	PE	city	Callao	Callao, Peru	Peru	11	-77.1259843	-12.0508491
+3895	maso	bfc35dcc7e63252a	MX	city	Cuauhtémoc	Cuauhtémoc, Distrito Federal	México	2869	-99.1495107	19.4356338
+3905	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3906	maso	0077cc1035dbc780	UY	admin	Soriano	Soriano, Uruguay	Uruguay	259	-58.21695599999999	-33.529522299999996
+3908	maso	01265d8c62a2c72f	UY	admin	Rivera	Rivera, Uruguay	Uruguay	615	-55.5469032	-30.9178625
+3909	maso	01265d8c62a2c72f	UY	admin	Rivera	Rivera, Uruguay	Uruguay	615	-55.5469032	-30.9178625
+3911	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3913	maso	01fd50ae72f37614	PE	city	Miraflores	Miraflores, Peru	Peru	1076	-77.0315913	-12.111062
+3914	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3915	maso	00f6b5cf7c1767b1	AR	city	Bahía Blanca	Bahía Blanca, Argentina	Argentina	505	-62.2663478	-38.7183177
+3917	maso	00a8405a50f2dd12	AR	city	San Clemente del Tuyú	San Clemente del Tuyú, Argentina	Argentina	350	-56.7185135	-36.3688312
+3922	maso	6cf2fd60a82329fc	PY	country	Paraguay	Paraguay	Paraguay	2123	-58.443832	-23.442503
+3925	maso	01566b25bbe7a6d3	MX	city	Mérida	Mérida, Yucatán	México	727	-89.5925857	20.9673702
+3926	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3927	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3929	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3931	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+3933	maso	014a38a754ca1dbc	AR	city	Morón	Morón, Argentina	Argentina	695	-58.6167212	-34.6558611
+3935	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3952	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+3953	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3954	maso	1ed82be977be0cfa	AR	admin	Buenos Aires City Region	Buenos Aires City Region, Argentina	Argentina	1348	-58.3815591	-34.6036844
+3955	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3958	maso	00a961d91f76dde8	AR	city	Corrientes	Corrientes, Argentina	Argentina	352	-58.8306349	-27.4692131
+3959	maso	009b71fa17159ccc	UY	admin	Canelones	Canelones, Uruguay	Uruguay	331	-56.2873482	-34.5291043
+3960	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3962	maso	004b853c78703c20	AR	city	Ciudad del Libertador General San Martín	Ciudad del Libertador General San Martín, Argentina	Argentina	165	-58.53709649999999	-34.5757521
+3963	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3964	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+3965	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3966	maso	7807880b17af73d8	MX	city	Guadalajara	Guadalajara, Jalisco	México	2238	-103.3496092	20.6596988
+3967	maso	0b79f7e718cb54b9	AR	admin	Córdoba	Córdoba, Argentina	Argentina	1188	-64.1887761	-31.42008329999999
+3973	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3974	maso	4e51dcd7e0471448	AR	admin	Río Negro	Río Negro, Argentina	Argentina	1833	-63.0266339	-40.8261434
+3976	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+3978	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+3980	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+3981	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+3983	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+3989	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+3990	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+3991	maso	0032baff35718ca4	AR	city	Berazategui	Berazategui, Argentina	Argentina	113	-58.2112961	-34.762001
+3995	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+3998	maso	0086c37e4416111e	AR	city	San Isidro	San Isidro, Argentina	Argentina	284	-58.5286102	-34.470829
+3999	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+4002	maso	0177894212b08f73	AR	city	La Plata	La Plata, Argentina	Argentina	796	-57.95356570000001	-34.9204948
+4004	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+4005	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+4006	maso	0108c69f708ae783	AR	city	Avellaneda	Avellaneda, Argentina	Argentina	548	-58.3669739	-34.6610756
+4008	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+4009	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+4011	maso	5a31f78df98634d6	AR	admin	Entre Ríos	Entre Ríos, Argentina	Argentina	1962	-60.49564609999999	-31.7746654
+4012	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+4013	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+4014	maso	00b19b974fd465ae	AR	city	Los Polvorines	Los Polvorines, Argentina	Argentina	369	-58.6914464	-34.4996258
+4016	maso	0101525d656f78f9	AR	city	San Miguel	San Miguel, Argentina	Argentina	524	-58.7118577	-34.543055
+4017	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+4018	maso	004104c122aeebbd	AR	city	Moreno	Moreno, Argentina	Argentina	142	-58.791382	-34.6340099
+4019	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+4020	maso	0138a2ed609c5a53	AR	city	González Catán	González Catán, Argentina	Argentina	658	-58.6315295	-34.7624548
+4022	maso	014c3ff137d87084	AR	city	Almirante Brown	Almirante Brown, Argentina	Argentina	698	-58.3945107	-34.8400613
+4023	maso	00577114384dea2b	AR	city	Vicente López	Vicente López, Argentina	Argentina	188	-58.473816	-34.5281205
+4025	maso	003513a4697c1c45	UY	admin	Artigas	Artigas, Uruguay	Uruguay	120	-56.4775937	-30.4068179
+4026	maso	0195013c14bb0e0e	UY	admin	Tacuarembó	Tacuarembó, Uruguay	Uruguay	857	-55.9859887	-31.7206837
+4027	maso	01d487de3c4e0807	UY	admin	Maldonado	Maldonado, Uruguay	Uruguay	982	-54.9634343	-34.9018717
+4030	maso	002d95e36048f162	UY	admin	Salto	Salto, Uruguay	Uruguay	96	-57.9612455	-31.388028
+4034	maso	0027650b5dafc5d7	AR	city	La Costa	La Costa, Argentina	Argentina	84	-56.6850587	-36.7376124
+4037	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+4038	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+4039	maso	01d13f2529da75c4	AR	city	Paraná	Paraná, Argentina	Argentina	974	-60.51154709999999	-31.7413197
+4042	maso	017115ee2013f809	AR	city	Lanús Oeste	Lanús Oeste, Argentina	Argentina	784	-58.39207949999999	-34.6994795
+4044	maso	01f0c71900c3ee18	AR	city	Lobos	Lobos, Argentina	Argentina	1049	-59.0975278	-35.1853611
+4056	maso	01ddedcb5fddc691	UY	admin	Paysandú	Paysandú, Uruguay	Uruguay	1002	-58.08113400000001	-32.2706789
+4057	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+4060	maso	000ceddc32916a4c	AR	city	Lomas de Zamora	Lomas de Zamora, Argentina	Argentina	31	-58.4302476	-34.76118230000001
+4061	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+4062	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+4064	maso	018f1cde6bad9747	AR	city	Ciudad Autónoma de Buenos Aires	Ciudad Autónoma de Buenos Aires, Argentina	Argentina	846	-58.3815591	-34.6036844
+4067	maso	01a9dbb9232f0fac	UY	admin	Montevideo	Montevideo, Uruguay	Uruguay	898	-56.16453139999999	-34.9011127
+4068	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+4069	maso	000f50400f2ec9b3	AR	city	Uruguay	Uruguay, Argentina	Argentina	36	-58.2344527	-32.485827
+4070	maso	00da7cec74df27ff	AR	city	Neuquén	Neuquén, Argentina	Argentina	450	-68.0591888	-38.9516784
+4073	maso	01b40b49265b126c	AR	city	Santa Fé	Santa Fé, Argentina	Argentina	915	-60.697294	-31.6106578
+4074	maso	d0f5be1262dee9aa	UY	country	Uruguay	Uruguay	Uruguay	3021	-55.765835	-32.522779
+4075	maso	4afa2757051c5192	AR	admin	Buenos Aires	Buenos Aires, Argentina	Argentina	1811	-58.3815591	-34.6036844
+4076	maso	0079bbc151fa56d2	AR	city	Rosario	Rosario, Argentina	Argentina	264	-60.69304159999999	-32.9587022
+4078	maso	0114727642b6d1dd	UY	admin	Lavalleja	Lavalleja, Uruguay	Uruguay	581	-55.2371458	-34.3743239
+4080	maso	003360dc7574e183	AR	city	Belén de Escobar	Belén de Escobar, Argentina	Argentina	115	-58.7849434	-34.3402525
